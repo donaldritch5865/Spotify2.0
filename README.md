@@ -16,6 +16,7 @@ https://spotify-clone-webb.vercel.app/
  <hr>
 
 ## Screenshots
+<img width="1792" alt="Screenshot 2025-06-03 at 10 18 04 AM" src="https://github.com/user-attachments/assets/63e9b27f-f4e2-40db-b6dd-8a24d4a2ded3" />
 
 <hr>
 
